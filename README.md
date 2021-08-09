@@ -1,6 +1,6 @@
 # Melon
 
-![](../.gitbook/assets/gitbook-melon.png)
+![photo_2021-06-21_18-59-42](https://gblobscdn.gitbook.com/assets%2F-McdoeXoPdzXtCcRFpeK%2F-Me0_VPoFjnR-y2vOryb%2F-Me0_bQZbYnwSFoQ_OKD%2Fgitbook-melon.png?alt=media&token=76b6212b-b7ed-4e30-b8a7-8ed8adadc8c6)
 
 ## What is Melon?
 
